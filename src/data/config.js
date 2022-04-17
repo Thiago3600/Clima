@@ -1,1 +1,1 @@
-export const keyApiGoogle = 'AIzaSyDakaCo0XGpfUMqo_y-fnlXcyDqXwLt5lM'
+export const keyApiGoogle = 'Seu codigo aqui'
